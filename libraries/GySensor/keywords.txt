@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For ShiftR
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ShiftR	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+enable_output	KEYWORD2
+disable_outputs	KEYWORD2
+reset	KEYWORD2shift	KEYWORD2
+latch_enable		KEYWORD2
+latch_disable		KEYWORD2write_data	KEYWORD2write_pin	KEYWORD2
+initialize		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
